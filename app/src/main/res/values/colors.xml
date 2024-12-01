@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Pastel Colors -->
+    <color name="pastel_blue">#AEC6CF</color>
+    <color name="pastel_green">#B2DFDB</color>
+    <color name="pastel_yellow">#FDFD96</color>
+    <color name="pastel_pink">#FFD1DC</color>
+    <color name="pastel_purple">#CBAACB</color>
+    <color name="pastel_orange">#FFB347</color>
+
+    <!-- Additional Colors -->
+    <color name="pastel_background">#BFFAF3DD</color>
+    <color name="pastel_surface">#FFEBEE</color>
+    <color name="pastel_on_primary">#37474F</color>
+    <color name="pastel_on_background">#5D4037</color>
+    <color name="pastel_on_surface">#3E2723</color>
+</resources>

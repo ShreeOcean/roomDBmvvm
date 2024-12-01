@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyRoomDb24" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+    <style name="OutlinedEditText" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/pastel_orange</item>
+        <item name="boxBackgroundColor">@color/white</item>
+        <item name="hintTextColor">@color/pastel_blue</item>
+        <item name="helperTextTextColor">@color/pastel_purple</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/pastel_pink</item>
+    </style>
+</resources>
